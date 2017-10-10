@@ -1,2 +1,2 @@
 # projectx
-project=x
+project=t2
